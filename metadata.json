@@ -1,0 +1,7 @@
+{
+  "name": "MathAR: Hand-Controlled 3D Graphs",
+  "description": "An Augmented Reality mathematical visualizer using Three.js and MediaPipe Hands for real-time interaction through gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
